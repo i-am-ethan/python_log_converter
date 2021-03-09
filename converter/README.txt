@@ -20,9 +20,3 @@
 file名の指定がめんどくさい
 
 
-■参考文献：
-①Pythonでファイル内の任意の文字列を含む行を抽出（grep的処理）
-https://note.nkmk.me/python-grep-like/
-
-②[python]encoding error 
-https://qiita.com/e_san_desuyo/items/4be39d3460e8f635ae34
